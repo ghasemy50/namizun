@@ -1,0 +1,5 @@
+[tool.setuptools]
+py-modules = ["ip", "database", "time", "network", "log", "udp"]
+[project]
+name = "namizun_core"
+version = "0.0.0"
