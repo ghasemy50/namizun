@@ -1,0 +1,5 @@
+[tool.setuptools]
+py-modules = ["display", "main_menu", "monitor", "network_submenu", "udp_submenu"]
+[project]
+name = "namizun_menu"
+version = "0.0.0"
