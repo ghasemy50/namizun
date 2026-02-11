@@ -5,7 +5,7 @@ This project is used to remove the limitation of asymmetric ratio for uploading 
 ## Dockerized installation
 
 ```bash
-git clone https://github.com/salehi/namizun
+git clone https://github.com/ghasemy50/namizun
 cd namizun
 docker-compose pull
 docker-compose up -d
@@ -26,7 +26,7 @@ docker-compose build namizun
 ## One line installation command:
 
 ```bash
-sudo curl https://raw.githubusercontent.com/malkemit/namizun/master/else/setup.sh | sudo bash
+sudo curl https://raw.githubusercontent.com/ghasemy50/namizun/master/else/setup.sh | sudo bash
 ```
 
 ## Manual installation
@@ -58,7 +58,7 @@ git init
 ```
 
 ```bash
-git remote add origin https://github.com/malkemit/namizun.git
+git remote add origin https://github.com/ghasemy50/namizun.git
 ```
 
 ```bash
