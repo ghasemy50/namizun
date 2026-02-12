@@ -65,3 +65,7 @@ if [ $? != 0 ]; then
   echo "failed to add namizun to PATH environment variables"
   exit
 fi
+
+echo "Install Modules (step 9)"
+/var/www/namizun/venv/bin/python3 -m pip install colored pyfiglet prettytable psutil redis pytz
+echo "Namizun installed. Use command namizun"
